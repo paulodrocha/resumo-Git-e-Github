@@ -16,6 +16,7 @@ git init
 git clone <link>
 git config
 git status
+git push -u origin main
 ```
 
 
